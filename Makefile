@@ -5,3 +5,6 @@ build:
 
 run:
 	@target/debug/jellysmack-test
+
+test:
+	@cargo test
